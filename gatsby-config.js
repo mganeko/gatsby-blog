@@ -6,6 +6,8 @@ module.exports = {
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `kylemathews`,
+      //twitter: `mganeko`,
+      github: `mganeko/gatsby-blog`,
     },
   },
   pathPrefix: `/gatsby-blog`,
