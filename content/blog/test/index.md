@@ -6,7 +6,7 @@ description: "Test page"
 
 This is my test post on gatsby blog.
 
-Gatsby blog のテストページです。
+Gatsby blogのテストページです。
 
 [Github/mganeko](https://github.com/mganeko/)
 
