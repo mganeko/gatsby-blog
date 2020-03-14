@@ -8,6 +8,9 @@ This is my test post on gatsby blog.
 
 Gatsby blog のテストページです。GitHub Actions によるビルドもテスト中。プロジェクトパスの付与をトライ
 
+このページでコンフリクト編集をテスト中（こちらはマスター）
+
+
 [Github/mganeko](https://github.com/mganeko/gatsby-blog/)
 
 ![PATLABOR](./pat.jpeg)
