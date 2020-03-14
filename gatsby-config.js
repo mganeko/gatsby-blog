@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews, mganeko`,
+    author: `(original Kyle Mathews), mganeko`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://mganeko.github.io/gatsby-blog/`,
     social: {
