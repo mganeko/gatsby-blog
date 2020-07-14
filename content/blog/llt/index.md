@@ -1,6 +1,6 @@
 ---
 title: えるLT 15
-date: "2020-07-14T18:12:03.284Z"
+date: "2020-07-14T18:02:03.284Z"
 description: "post of llt 15"
 ---
 
