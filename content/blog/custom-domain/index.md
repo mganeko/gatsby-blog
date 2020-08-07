@@ -1,6 +1,6 @@
 ---
 title: try custom domain
-date: "2020-08-7T10:24:03.284Z"
+date: "2020-08-07T10:24:03.284Z"
 description: "try custom domain for GitHub Pages"
 ---
 
