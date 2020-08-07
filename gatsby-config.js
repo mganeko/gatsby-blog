@@ -3,7 +3,8 @@ module.exports = {
     title: `Gatsby Starter Blog clone`,
     author: `mganeko, (original: Kyle Mathews)`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://mganeko.github.io/gatsby-blog/`,
+    //siteUrl: `https://mganeko.github.io/gatsby-blog/`,
+    siteUrl: `https://blog.meetin.biz/`, // custom domain
     social: {
       twitter: `kylemathews`,
       //twitter: `mganeko`,
