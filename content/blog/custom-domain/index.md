@@ -10,4 +10,6 @@ https://blog.meetin.biz/
 
 gatsby-config.js の　siteUrl:　をいじる必要がありそう。
 
+なぜか、GitHub pagesのカスタムドメイン設定が消える
+
 
