@@ -11,7 +11,8 @@ module.exports = {
       github: `mganeko/gatsby-blog`,
     },
   },
-  pathPrefix: `/gatsby-blog`,
+  // pathPrefix: `/gatsby-blog`,
+  pathPrefix: ``, // with custom domain
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
